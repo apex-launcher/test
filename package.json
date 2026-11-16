@@ -1,0 +1,19 @@
+{
+  "name": "sbom-test-app",
+  "version": "1.0.0",
+  "description": "Minimal sample app used to test SBOM generation/scanning",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "axios": "^1.7.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  }
+}
