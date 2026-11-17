@@ -11,7 +11,8 @@
     "minimist": "1.2.5",
     "node-fetch": "2.6.0",
     "y18n": "4.0.0",
-    "ansi-regex": "5.0.0"
+    "ansi-regex": "5.0.0",
+    "mysql": "2.18.1"
   },
   "devDependencies": {
     "jest": "^29.7.0"
